@@ -21,7 +21,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-05122A.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 ![TypeScript](https://img.shields.io/badge/typescript-05122A.svg?style=flat&logo=typescript&logoColor=%23007ACC)
 ![Angular](https://img.shields.io/badge/angular-05122A.svg?style=flat&logo=angular&logoColor=%23DD0031)&nbsp;
-
+<br>
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Express.js](https://img.shields.io/badge/express.js-05122A.svg?style=flat&logo=express&logoColor%23404d59)
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
@@ -29,7 +29,7 @@
 ![Swagger](https://img.shields.io/badge/-Swagger-05122A?style=flat&logo=swagger&logoColor=%23Clojure)
 ![JWT](https://img.shields.io/badge/JWT-05122A?style=flat&logo=JSON%20web%20tokens)
 ![Postman](https://img.shields.io/badge/Postman-05122A?style=flat&logo=postman&logoColor=FF6C37)
-
+<br>
 ![NPM](https://img.shields.io/badge/NPM-05122A.svg?style=flat&logo=npm&logoColor=%23000000)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-05122A.svg?style=flat&logo=mongodb&logoColor=%234ea94b)
 ![Docker](https://img.shields.io/badge/docker-05122A.svg?style=flat&logo=docker&logoColor=%230db7ed)
@@ -37,8 +37,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![MySQL](https://img.shields.io/badge/mysql-05122A.svg?style=flat&logo=mysql&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-05122A.svg?style=flat&logo=heroku&logoColor=%23430098)
-
-
 
 ### 🤝🏻 &nbsp;Connect with Me
 
