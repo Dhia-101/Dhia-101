@@ -10,7 +10,7 @@
 - 📫 Reach me at trabelsi.dhia.32@gmail.com, I'll get back to you asap!
 - 📄  check my [Portfolio](https://dhia-simplefolio.herokuapp.com/) for more details. feedback is welcome!
 
-<img alt="coding" src="https://raw.githubusercontent.com/DhiaTr/DhiaTr/main/assets/coding.gif" align="right"/>
+<img alt="coding" src="https://github.com/Dhia-101/Dhia-101/blob/75f983a5c9d03301f87f782c4f1de093bc4986d1/assets/coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
