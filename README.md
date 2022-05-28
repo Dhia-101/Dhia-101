@@ -38,11 +38,16 @@
 ![MySQL](https://img.shields.io/badge/mysql-05122A.svg?style=flat&logo=mysql&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-05122A.svg?style=flat&logo=heroku&logoColor=%23430098)
 
+📈 **My GitHub Stats:**
+
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhia-101&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
+
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="left">
 <a href="https://dhia-simplefolio.herokuapp.com/"><img src="https://img.shields.io/badge/-DhiaTr.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/dhiatr/"><img src="https://img.shields.io/badge/-DhiaTr-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:Trabelsi.dhia.32@gmail.com"><img src="https://img.shields.io/badge/-Trabelsi.dhia.32@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
