@@ -2,9 +2,9 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I'm a passionate self-taught full Stack Web Developer From Tunisia<br>
+💡 &nbsp;I'm a passionate self-taught full Stack Web Developer And CS grad<br>
   I Enjoy building various types of projects while emphasizing on providing quality end user experience.<br>
-  I also take good care on the code quality, internal architecture and the scalability of the software i build.
+  I also take good care of the code quality, internal architecture and the scalability of the software I build.
   
 - 🔭 I’m currently working on Different types of projects
 - 📫 Reach me at trabelsi.dhia.32@gmail.com, I'll get back to you asap!
